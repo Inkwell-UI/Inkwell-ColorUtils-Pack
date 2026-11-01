@@ -1,0 +1,23 @@
+{
+  "kind": "HexToColor",
+  "major": 1,
+  "title": "Hex To Color",
+  "category": "Color",
+  "pure": true,
+  "inputs": [
+    {
+      "name": "hex",
+      "type": "String",
+      "default": ""
+    }
+  ],
+  "outputs": [
+    {
+      "name": "value",
+      "type": "Number",
+      "default": 0
+    }
+  ],
+  "fields": {},
+  "as2Template": "templates/HexToColor.as2"
+}
