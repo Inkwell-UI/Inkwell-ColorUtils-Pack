@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+Every node now has an Inspector description. No pin, field or template changed.
+
 ## 0.1.0
 
 First release: 7 pure nodes (category Color), all `colorutils/<Kind>@1`. A colour is a number 0xRRGGBB, the form Core's Set Tint takes.
