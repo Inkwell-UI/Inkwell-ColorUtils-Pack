@@ -25,5 +25,10 @@
       "description": "Upper-case digits (#FFAA00) instead of lower-case (#ffaa00)"
     }
   },
-  "as2Template": "templates/ColorToHex.as2"
+  "as2Template": "templates/ColorToHex.as2",
+  "extra": {
+    "inspector": {
+      "description": "Turns a color into hex text like FF8800."
+    }
+  }
 }

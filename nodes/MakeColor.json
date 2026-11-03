@@ -29,5 +29,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/MakeColor.as2"
+  "as2Template": "templates/MakeColor.as2",
+  "extra": {
+    "inspector": {
+      "description": "Builds a color from red, green and blue."
+    }
+  }
 }

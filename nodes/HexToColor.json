@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/HexToColor.as2"
+  "as2Template": "templates/HexToColor.as2",
+  "extra": {
+    "inspector": {
+      "description": "Turns hex text like FF8800 into a color."
+    }
+  }
 }

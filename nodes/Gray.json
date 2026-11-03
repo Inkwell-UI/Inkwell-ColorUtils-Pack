@@ -19,5 +19,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/Gray.as2"
+  "as2Template": "templates/Gray.as2",
+  "extra": {
+    "inspector": {
+      "description": "Turns a color into its gray equivalent."
+    }
+  }
 }

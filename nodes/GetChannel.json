@@ -30,5 +30,10 @@
       "description": "Which channel (0-255) to read"
     }
   },
-  "as2Template": "templates/GetChannel.as2"
+  "as2Template": "templates/GetChannel.as2",
+  "extra": {
+    "inspector": {
+      "description": "Reads the red, green or blue part of a color."
+    }
+  }
 }

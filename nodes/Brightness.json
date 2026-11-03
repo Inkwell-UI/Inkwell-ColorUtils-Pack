@@ -24,5 +24,10 @@
     }
   ],
   "fields": {},
-  "as2Template": "templates/Brightness.as2"
+  "as2Template": "templates/Brightness.as2",
+  "extra": {
+    "inspector": {
+      "description": "Makes a color lighter or darker."
+    }
+  }
 }
